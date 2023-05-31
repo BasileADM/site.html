@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color: #ffffff;
+    
+}
+.txt{
+    
+    padding-left: 80px;
+    padding-top: 130px;
+    
+}
+.text{
+    font-family: Fira Code ,monospace;
+    color: rgb(222, 225 , 222);
+    margin-bottom: 12px;
+}
+.title1{
+    font-family: Fira Code ,monospace;
+    color: white;
+    margin-bottom: 12px;
+    font-size: 25px;
+}
+.title{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.button{
+    color: rgb(222, 225, 222);
+    font-size: 22px;
+    
+}
+.imagedefond { 
+  
+    background-image: url("https://images2.alphacoders.com/671/671306.jpg");
+    background-color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+   
+  }
+  
